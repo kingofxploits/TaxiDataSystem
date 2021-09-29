@@ -1,0 +1,11 @@
+
+CTC Taxi served a total of 14 passengers today.
+CTC0001		CTC0002		CTC0003		CTC0004		CTC0005		CTC0006		
+0 Calls		1 Calls		0 Calls		2 Calls		0 Calls		0 Calls		
+
+0 Passengers	5 Passengers	0 Passengers	7 Passengers	0 Passengers	0 Passengers	
+
+Today CTC0004 served most passengers.
+
+Today on average each taxi served 2 passengers.
+CTC0001		CTC0002		CTC0003		CTC0004		CTC0005		CTC0006		
